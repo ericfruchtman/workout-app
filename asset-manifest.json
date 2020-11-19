@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ericfruchtman.github.io/workout-app/static/css/main.53fbc1ad.chunk.css",
+    "main.js": "/ericfruchtman.github.io/workout-app/static/js/main.7c65f64b.chunk.js",
+    "main.js.map": "/ericfruchtman.github.io/workout-app/static/js/main.7c65f64b.chunk.js.map",
+    "runtime-main.js": "/ericfruchtman.github.io/workout-app/static/js/runtime-main.8649b5dc.js",
+    "runtime-main.js.map": "/ericfruchtman.github.io/workout-app/static/js/runtime-main.8649b5dc.js.map",
+    "static/js/2.b47605bf.chunk.js": "/ericfruchtman.github.io/workout-app/static/js/2.b47605bf.chunk.js",
+    "static/js/2.b47605bf.chunk.js.map": "/ericfruchtman.github.io/workout-app/static/js/2.b47605bf.chunk.js.map",
+    "static/js/3.81f3aa4a.chunk.js": "/ericfruchtman.github.io/workout-app/static/js/3.81f3aa4a.chunk.js",
+    "static/js/3.81f3aa4a.chunk.js.map": "/ericfruchtman.github.io/workout-app/static/js/3.81f3aa4a.chunk.js.map",
+    "index.html": "/ericfruchtman.github.io/workout-app/index.html",
+    "static/css/main.53fbc1ad.chunk.css.map": "/ericfruchtman.github.io/workout-app/static/css/main.53fbc1ad.chunk.css.map",
+    "static/js/2.b47605bf.chunk.js.LICENSE.txt": "/ericfruchtman.github.io/workout-app/static/js/2.b47605bf.chunk.js.LICENSE.txt",
+    "static/media/edit-solid.4ffe848a.svg": "/ericfruchtman.github.io/workout-app/static/media/edit-solid.4ffe848a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8649b5dc.js",
+    "static/js/2.b47605bf.chunk.js",
+    "static/css/main.53fbc1ad.chunk.css",
+    "static/js/main.7c65f64b.chunk.js"
+  ]
+}
